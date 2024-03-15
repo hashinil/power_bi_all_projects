@@ -2,6 +2,10 @@
 
 This repository contains all projects related to data analysis done by **POWER BI**.
 
+:round_pushpin: 4. [15 days of Power BI - Complete Microsoft Power BI Bootcamp](https://github.com/hashinil/power_bi)
+[UDEMY COURSE](https://www.udemy.com/course/15-days-of-power-bi/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com&couponCode=KEEPLEARNING)
+![image](https://github.com/hashinil/power_bi_for_data_analytics/assets/33922245/de97c87b-c577-417d-9f4e-2f59e7cbdd84)
+
 -------------------------------------------
 
 :round_pushpin: 3. [Data Professional Survey Breakdown Dashboard](https://github.com/hashinil/power_bi_data_professional_dashboard)
